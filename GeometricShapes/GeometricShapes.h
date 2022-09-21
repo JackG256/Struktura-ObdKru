@@ -4,7 +4,7 @@
 //Namespace and structure declarations with constructor declarations
 namespace shapes {
     struct circle {
-        circle(double radius);
+        explicit circle(double radius);
         double radius;
     };
 

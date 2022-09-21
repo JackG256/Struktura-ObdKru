@@ -2,7 +2,6 @@
 
 #include "EvalFunctions/EvalFunctions.h"
 #include "GeometricShapes/GeometricShapes.h"
-using namespace shapes;
 void printMenu(){
     //function prints menu options
     std::cout << "R - Specify rectangle dimensions" << std::endl
@@ -48,7 +47,7 @@ int main() {
                 std::cin >> tempB;
                 //Constructing a shape based on inputted values
                 //Calling this branch again will overwrite the old pointer
-                myRectangle = new rectangle(tempA, tempB);
+                myRectangle = new shapes::rectangle(tempA, tempB);
                 //Feedback about shape creation
                 std::cout << "Created a rectangle of size: "+std::to_string(tempA)+" and "+std::to_string(tempB)
                           << std::endl << std::endl;
@@ -59,7 +58,7 @@ int main() {
                 //Same as previous branch, now a circle
                 std::cout << "Size of radius: ";
                 std::cin >> tempRad;
-                myCircle = new circle(tempRad);
+                myCircle = new shapes::circle(tempRad);
                 std::cout << "Created a circle of size " +std::to_string(tempRad)
                           << std::endl << std::endl;
                 break;

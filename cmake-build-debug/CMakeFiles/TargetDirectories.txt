@@ -1,0 +1,3 @@
+C:/Users/JackG256/Desktop/school shit/AP5PC/Struktura ObdKru/cmake-build-debug/CMakeFiles/Struktura_ObdKru.dir
+C:/Users/JackG256/Desktop/school shit/AP5PC/Struktura ObdKru/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/JackG256/Desktop/school shit/AP5PC/Struktura ObdKru/cmake-build-debug/CMakeFiles/rebuild_cache.dir

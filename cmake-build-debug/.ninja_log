@@ -1,0 +1,11 @@
+# ninja log v5
+8	128	6854896194913535	CMakeFiles/Struktura_ObdKru.dir/GeometricShapes.cpp.obj	f4f885303e88272d
+4	111	6854869651054832	CMakeFiles/Struktura_ObdKru.dir/EvaluationFunctions.cpp.obj	32a3b663fd79e939
+6	575	6854922349633955	CMakeFiles/Struktura_ObdKru.dir/main.cpp.obj	964cd1785adcae84
+576	756	6854922351423953	Struktura_ObdKru.exe	40bd8f2068b10095
+3	103	6854874624101955	CMakeFiles/Struktura_ObdKru.dir/EvalFunctions.cpp.obj	a8a171abee27ee0e
+1	199	6854928265153242	build.ninja	6d4bd8b3ee0437f2
+4	72	6854928266503261	CMakeFiles/Struktura_ObdKru.dir/GeometricShapes/GeometricShapes.cpp.obj	7cf2119ee9aa2adf
+7	120	6854928266993249	CMakeFiles/Struktura_ObdKru.dir/EvalFunctions/EvalFunctions.cpp.obj	c798873f9d6cc6b1
+10	446	6854928270243438	CMakeFiles/Struktura_ObdKru.dir/main.cpp.obj	964cd1785adcae84
+446	581	6854928271573354	Struktura_ObdKru.exe	8a060dea4e081ca1
